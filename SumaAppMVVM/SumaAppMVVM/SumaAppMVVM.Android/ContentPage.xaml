@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage  xmlns:widget="clr-namespace:Android.Widget;assembly=Mono.Android"
+              xmlns="http://xamarin.com/schemas/2014/forms"
+              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                                x:Class="SumaAppMVVM.SumaPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Ingrese dos valores para sumar:"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="valor1" Placeholder="Valor 1" />
+            <Entry x:Name="valor2" Placeholder="Valor 2" />
+            <widget:Button Text="Sumar" Clicked="OnSumarClicked" />
+            <Label x:Name="resultado" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,6 @@
+C:\Users\Alba\OneDrive\Documentos\2023\CEUTEC\Q4-2023\Programacion2\Tarea\SumaAppMVVM\SumaAppMVVM\SumaAppMVVM.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+C:\Users\Alba\OneDrive\Documentos\2023\CEUTEC\Q4-2023\Programacion2\Tarea\SumaAppMVVM\SumaAppMVVM\SumaAppMVVM.Android\obj\Debug\130\build.props
+C:\Users\Alba\OneDrive\Documentos\2023\CEUTEC\Q4-2023\Programacion2\Tarea\SumaAppMVVM\SumaAppMVVM\SumaAppMVVM.Android\obj\Debug\130\adb.props
+C:\Users\Alba\OneDrive\Documentos\2023\CEUTEC\Q4-2023\Programacion2\Tarea\SumaAppMVVM\SumaAppMVVM\SumaAppMVVM.Android\obj\Debug\130\SumaAppMVVM.Android.csproj.AssemblyReference.cache
+C:\Users\Alba\OneDrive\Documentos\2023\CEUTEC\Q4-2023\Programacion2\Tarea\SumaAppMVVM\SumaAppMVVM\SumaAppMVVM.Android\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Alba\OneDrive\Documentos\2023\CEUTEC\Q4-2023\Programacion2\Tarea\SumaAppMVVM\SumaAppMVVM\SumaAppMVVM.Android\obj\Debug\130\res.flag
